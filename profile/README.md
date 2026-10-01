@@ -15,7 +15,6 @@ Beyond flight deals, we share travel tips from our community to help members spe
 **Where we are today**
 
 - **57 departure cities in 17 countries**, across North America, Europe and Oceania. Deals cover **351 destinations in 132 countries**.
-- Members pay in their own currency: USD, CAD, GBP, EUR, CHF, DKK, SEK, NOK, AUD, NZD.
 - A community of **200,000+ members**, who have saved **$2M+** on flights.
 
 **Our journey**
@@ -24,7 +23,7 @@ Beyond flight deals, we share travel tips from our community to help members spe
 2. **Expansion across Canada** — Calgary, Montreal and Vancouver; 50k members.
 3. **Launch in the United States** — from New York and Miami to San Francisco, with an algorithm tuned to American routes.
 4. **100k members** — the Club grows with member recommendations and travel tips.
-5. **Major launch in Europe** — from Paris and Rome to London: 17 countries across three regions, Australia and New Zealand included.
+5. **Major launch in Europe** — our biggest step ever: from Paris and Rome to London.
 6. **A fresh new look** — 200k+ members, a brand built around our ambition to become the largest travel community.
 
 ---
