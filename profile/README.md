@@ -14,7 +14,7 @@ Beyond flight deals, we share travel tips from our community to help members spe
 
 **Where we are today**
 
-- **57 departure cities in 17 countries**, across North America, Europe and Oceania. Deals cover **351 destinations in 132 countries**.
+- **57 departure cities in 17 countries**, across North America, Europe and Oceania. Deals cover **349 destinations in 131 countries**.
 - A community of **200,000+ members**, who have saved **$2M+** on flights.
 
 **Our journey**
